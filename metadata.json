@@ -1,0 +1,6 @@
+{
+  "name": "PriceCraft - Micro-SaaS Pricing Strategy Builder",
+  "description": "Interactive pricing tier designer, usage metric calculator, multi-theme previewer, and React/Tailwind code generator for SaaS founders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
